@@ -22,3 +22,5 @@
 
 > ## Principle 3:
 > Australian Government agencies will actively participate in open source software communities and contribute back where appropriate.The Australian Government, through AGIMO, will actively seek to keep up-to-date with international best practice in the open source software arena, through engaging with other countries and organisations. Australian Government agencies should also actively participate in open source software communities and contribute back where appropriate.
+
+[Government agencies using GitHub](https://government.github.com/community/)
